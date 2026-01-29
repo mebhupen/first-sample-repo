@@ -17,7 +17,7 @@
 
     ### Block of code
 
-    '''bash
+    ```bash
     sudo apt update
     sudo apt install git -y
-    '''
+    ```
