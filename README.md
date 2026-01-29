@@ -15,9 +15,9 @@
 
 *This is Another way to highlight my code*
 
-    ### Block of code
+ ### Block of code
 
-    ```bash
-    sudo apt update
-    sudo apt install git -y
-    ```
+ ```bash
+ sudo apt update
+ sudo apt install git -y
+ ```
